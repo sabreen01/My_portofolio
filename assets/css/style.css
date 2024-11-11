@@ -268,10 +268,9 @@ section.about-section {
 }*/
 
 .services-section {
-  background-color: #22282f;
+  background-color: var(--dark-primary);
   color: #fff;
   padding: 50px 120px;
-  text-align: center;
 } 
 
 .services-section {
@@ -293,7 +292,7 @@ section.about-section {
 }
 
 .service-card {
-  background-color: #1f1f1f;
+  background-color:#444444;
   border-radius: 8px;
   padding: 20px;
   text-align: center;
