@@ -264,6 +264,14 @@ section.services-section {
   color: #c4c4c4;
 }
 
+.services-section {
+  background-color: #22282f;
+  color: #fff;
+  padding: 50px 120px;
+  text-align: center;
+}
+
+
 /* Projects Section */
 section.projects-section {
   background-color: var(--dark-primary);
